@@ -1,0 +1,2 @@
+
+print("Mtana Secondary School")
